@@ -10,7 +10,7 @@ Software Engineer with 4+ years of experience architecting and delivering data-i
 Feb 2022 - Present\
 Revelio Labs
 New York, NY
-• Engineered interactive data dashboards using TypeScript and React, enabling 100+ daily users to visualize large-scale organizational datasets.
+- Engineered interactive data dashboards using TypeScript and React, enabling 100+ daily users to visualize large-scale organizational datasets.
 • Architected frontend systems including key charting infrastructure, state management, and data-fetching patterns;  balanced long-term scalability with short-term delivery based on product deadlines. 
 • Built a reusable D3.js visualization library that standardized charting components across the platform, significantly reducing development time for new dashboards.
 • Improved application reliability by optimizing rendering paths, component lifecycles, and data flow, resulting in a 50% reduction in page load times on key views. 
