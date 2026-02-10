@@ -45,7 +45,7 @@ Bachelor of Science
 - Major in Anatomy and Cell Biology
 
 ## Technical Skills
-Languages: TypeScript, JavaScript (ES6+), Python, HTML5, CSS3 
-Frontend: React, Redux, D3.js, Storybook, Jest, Cypress
-Backend & Systems: Next.js, Node.js, REST APIs, GraphQL, MongoDB, PostgreSQL
-Infrastructure: Git, GitHub Actions, CI/CD
+**Languages:** TypeScript, JavaScript (ES6+), Python, HTML5, CSS3\ 
+**Frontend:** React, Redux, D3.js, Storybook, Jest, Cypress\
+**Backend & Systems:** Next.js, Node.js, REST APIs, GraphQL, MongoDB, PostgreSQL\
+**Infrastructure:** Git, GitHub Actions, CI/CD
