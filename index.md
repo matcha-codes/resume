@@ -8,7 +8,7 @@ Software Engineer with 4+ years of experience architecting and delivering data-i
 
 **Software Developer**\
 Feb 2022 - Present\
-Revelio Labs - _New York, NY_\
+Revelio Labs - _New York, NY_
 - Engineered interactive data dashboards using TypeScript and React, enabling 100+ daily users to visualize large-scale organizational datasets.
 - Architected frontend systems including key charting infrastructure, state management, and data-fetching patterns;  balanced long-term scalability with short-term delivery based on product deadlines. 
 - Built a reusable D3.js visualization library that standardized charting components across the platform, significantly reducing development time for new dashboards.
@@ -19,13 +19,13 @@ Revelio Labs - _New York, NY_\
 
 **Webmaster** \
 Jul 2021 - May 2022\
-Carleton Science Student Society - _Ottawa, ON_\
+Carleton Science Student Society - _Ottawa, ON_
 - Led a complete website redesign to modernize branding and improve engagement. 
 - Maintained responsive, accessible web content across devices and browsers to ensure high availability.
 
 **Teaching Assistant**\
 Jan 2021 - Apr 2021\
-Carleton University - _Ottawa, ON_\
+Carleton University - _Ottawa, ON_
 - Led tutorials and supported students in learning Python fundamentals and programming logic. 
 - Evaluated programming assignments and provided technical feedback to students.
 
