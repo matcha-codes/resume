@@ -11,26 +11,26 @@ Feb 2022 - Present\
 Revelio Labs
 New York, NY
 - Engineered interactive data dashboards using TypeScript and React, enabling 100+ daily users to visualize large-scale organizational datasets.
-• Architected frontend systems including key charting infrastructure, state management, and data-fetching patterns;  balanced long-term scalability with short-term delivery based on product deadlines. 
-• Built a reusable D3.js visualization library that standardized charting components across the platform, significantly reducing development time for new dashboards.
-• Improved application reliability by optimizing rendering paths, component lifecycles, and data flow, resulting in a 50% reduction in page load times on key views. 
-• Managed production ownership through on-call rotations, investigating frontend errors and data-related issues to maintain stability for clients. 
-• Partnered with Product and Design to transform complex workforce data requirements into intuitive UI flows, influencing technical direction while balancing usability and engineering constraints. 
-• Mentored junior engineers through code reviews and pairing, establishing frontend best practices and improving overall code quality.
+- Architected frontend systems including key charting infrastructure, state management, and data-fetching patterns;  balanced long-term scalability with short-term delivery based on product deadlines. 
+- Built a reusable D3.js visualization library that standardized charting components across the platform, significantly reducing development time for new dashboards.
+- Improved application reliability by optimizing rendering paths, component lifecycles, and data flow, resulting in a 50% reduction in page load times on key views. 
+- Managed production ownership through on-call rotations, investigating frontend errors and data-related issues to maintain stability for clients. 
+- Partnered with Product and Design to transform complex workforce data requirements into intuitive UI flows, influencing technical direction while balancing usability and engineering constraints. 
+- Mentored junior engineers through code reviews and pairing, establishing frontend best practices and improving overall code quality.
 
 **Webmaster** \
 Jul 2021 - May 2022\
 Carleton Science Student Society
 Ottawa, ON
-• Led a complete website redesign to modernize branding and improve engagement. 
-• Maintained responsive, accessible web content across devices and browsers to ensure high availability.
+- Led a complete website redesign to modernize branding and improve engagement. 
+- Maintained responsive, accessible web content across devices and browsers to ensure high availability.
 
 **Teaching Assistant**\
 Jan 2021 - Apr 2021\
 Carleton University
 Ottawa, ON
-• Led tutorials and supported students in learning Python fundamentals and programming logic. 
-• Evaluated programming assignments and provided technical feedback to students.
+- Led tutorials and supported students in learning Python fundamentals and programming logic. 
+- Evaluated programming assignments and provided technical feedback to students.
 
 ## Education
 **Carleton University** - _Ottawa, ON_\
