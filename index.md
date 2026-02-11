@@ -2,7 +2,7 @@
 
 Software Engineer with 4+ years of experience architecting and delivering data-intensive B2B SaaS products. Proficient across the stack using TypeScript, React, and Node.js with deep expertise in frontend system design and performance optimization. Demonstrated ability to own the full software development lifecycle, ensuring scalable architecture and seamless user experiences.
 
-[Portfolio](https://myronhuang.github.io/portfolio/) - [LinkedIn](https://www.linkedin.com/in/myronhuang) - [GitHub](https://github.com/myronhuang)
+[Download Resume](/myronresume.pdf) [Portfolio](https://myronhuang.github.io/portfolio/) - [LinkedIn](https://www.linkedin.com/in/myronhuang) - [GitHub](https://github.com/myronhuang)
 
 ## Experience
 
